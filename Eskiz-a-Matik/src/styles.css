@@ -1,0 +1,184 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 0;
+    user-select: none;
+}
+
+.wrapper {
+    background: #297373;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sketch-o-matic-container {
+    margin: 0;
+    display: flex;
+    width: 400px;
+    height: 450px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 20px;
+    background: hsla(359, 70%, 37%, 1);
+    box-shadow: 1px 2px 4px 3px black;
+}
+
+h1 {
+    margin: 15px;
+    text-align: center;
+    color: #ffd700;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.canvas {
+    box-sizing: content-box;
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    overflow: hidden;
+    user-select: none;
+}
+
+.canvas.draw {
+    cursor: url("../public/images/pencil-solid.png") 0 24, auto;
+}
+
+.canvas.erase {
+    cursor: url("../public/images/pencil-solid-flipped.png") 0 24, auto;
+}
+
+.pixel {
+    width: 5px;
+    height: 5px;
+}
+
+.empty {
+    background: #CFCFCF
+}
+
+.filled {
+    background: #333333;
+}
+
+.fade-out>.filled {
+    animation: fade-out .5s linear both
+}
+
+.button-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+button {
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    margin-top: 12px;
+    font-size: 13px;
+    border: 3px solid black;
+    border-style: ridge;
+    background: #f9f9f9;
+    box-shadow: 1px 1px 2px 1px black;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+button:hover {
+    cursor: pointer;
+    filter: brightness(.9)
+}
+
+button:focus:not(:focus-visible) {
+    outline: 0;
+}
+
+.shake-horizontal {
+    -webkit-animation: shake-horizontal 1s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+    animation: shake-horizontal 1s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+}
+
+@keyframes fade-out {
+    0% {
+        background: 3333333
+    }
+
+    100% {
+        background: #CFCFCF
+    }
+}
+
+
+/**
+ * ----------------------------------------
+ * animation shake-horizontal
+ * ----------------------------------------
+ */
+@-webkit-keyframes shake-horizontal {
+
+    0%,
+    100% {
+
+        transform: translateX(0);
+    }
+
+    10%,
+    30%,
+    50%,
+    70% {
+        transform: translateX(-10px);
+    }
+
+    20%,
+    40%,
+    60% {
+        transform: translateX(10px);
+    }
+
+    80% {
+        transform: translateX(8px);
+    }
+
+    90% {
+        transform: translateX(-8px);
+    }
+}
+
+@keyframes shake-horizontal {
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    10%,
+    30%,
+    50%,
+    70% {
+        transform: translateX(-10px);
+    }
+
+    20%,
+    40%,
+    60% {
+        transform: translateX(10px);
+    }
+
+    80% {
+        transform: translateX(8px);
+    }
+
+    90% {
+        transform: translateX(-8px);
+    }
+}
