@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  /*font-family: Arial, Helvetica, sans-serif;*/
+  /*font-family: Arial, Helvetica, sans-serif;*/
+  font-family: 'Montserrat', sans-serif;
+  /*font-family: 'Avenir', sans-serif;*/
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.customShadow1 {
+  box-shadow: 5px 5px 5px rgba(72, 187, 120, 0.9)
+}
+
+.customShadow2 {
+  box-shadow: -15px 20px 5px rgba(0, 0, 0, 0.9)
+}
+
+.customShadow3 {
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.9)
+}
