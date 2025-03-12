@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  /*font-family: Arial, Helvetica, sans-serif;*/
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: 'Avenir', sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.input-special{
+  opacity: 0.9;
+  background-color:rgba(255,255,255,0.1);
+  color:black
+}
+
+.button-special{
+  opacity: 0.9;
+  background-color:rgba(255,255,255,0.1);
+}
