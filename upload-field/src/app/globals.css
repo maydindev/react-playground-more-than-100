@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.custom-dash {
+  border-image: none;
+  border-width: 5px;
+  border-color: #1E77CC;
+  border-style: dashed;
+  border-radius: 22px;
+  border-image: initial;
+  border-image-outset: 0;
+  border-image-width: 1;
+  border-image-slice: 1;
+}
+
