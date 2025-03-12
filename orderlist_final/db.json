@@ -1,0 +1,16 @@
+{
+  "foods": [
+    {
+      "id": "5596",
+      "title": "Pizza"
+    },
+    {
+      "id": "878b",
+      "title": "Makarna"
+    },
+    {
+      "id": "d20a",
+      "title": "Ekmek"
+    }
+  ]
+}
