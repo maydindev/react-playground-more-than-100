@@ -1,9 +1,0 @@
-https://codepen.io/maydin/pen/wBwGLJN
-
-/*tarayıcı penceresinin boyutlarını (innerWidth ve innerHeight) almak ve takip etmek için kullanışlıdır. resize olayına bir olay dinleyici ekleyerek pencere yeniden boyutlandırıldığında durumunu (genişlik ve yükseklik) dinamik olarak güncellemeli.*/
-
-useState, useEffect
-window.innerWidth, 
-window.innerHeight
-window.addEventListener("resize", resize);
-window.removeEventListener("resize", resize);

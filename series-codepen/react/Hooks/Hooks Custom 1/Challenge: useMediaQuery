@@ -1,9 +1,0 @@
-https://codepen.io/maydin/pen/MYgbKea
-
-mevcut tarayıcı penceresinin hangi ekran boyutunda olduğunu gösteriyor.
-
-useState, useEffect
-window.matchMedia(query).matches
-
-list.addEventListener("change", check);
-list.removeEventListener("change", check);

@@ -1,7 +1,0 @@
-https://codepen.io/maydin/pen/ByBoowo
-
-interval oluşturmak ve yönetmek için kullanışlı bir yol sağlar. İçeride window.setInterval kullanarak, useInterval belirtilen bir aralıkta verilen callback fonksiyonunu tekrar tekrar çağırır ve useInterval kullanan bileşen DOM'dan kaldırıldığında otomatik olarak interval'i temizler.
-
-useState, useRef, useEffect
-setInterval
-onClick

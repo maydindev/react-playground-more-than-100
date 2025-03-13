@@ -1,8 +1,0 @@
-https://codepen.io/maydin/pen/raBLNvW
-
-useState ile benzer şekilde çalışır; ilk elementi state ve ikinci elementi bu state'i güncelleme yöntemi olan bir array döndürür. Ancak useState'ten farklı olarak, useObjectState'in yönettiği state nesnedir ve yeni state'i eski state ile birleştirir, yani tamamen değiştirmez.
-
-useState, useCallback
-Object.prototype.toString.call(value)
-typeof
-onClick
