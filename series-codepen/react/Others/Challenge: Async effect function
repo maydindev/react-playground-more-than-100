@@ -1,0 +1,14 @@
+https://codepen.io/maydin/pen/Rwzwdog
+
+
+useState, useEffect 
+
+
+const API = "https://jsonplaceholder.typicode.com";
+
+mokeapi-typicode
+
+async
+await fetch
+res.json()
+

@@ -1,0 +1,19 @@
+https://codepen.io/maydin/pen/NWZXBQx
+
+
+dijital saati bir buton gösterip gizliyor. açık oldukça da konsola tick yazıyor.
+
+
+useState, useEffect
+
+import format from "https://esm.sh/date-fns/format";
+
+window.setInterval
+new Date()
+window.clearInterval
+<p className="clock">{format(time, "hh:mm:ss a")}</p>;
+onClick
+
+
+
+

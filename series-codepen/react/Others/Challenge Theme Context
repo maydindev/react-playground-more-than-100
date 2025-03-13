@@ -1,0 +1,9 @@
+https://codepen.io/maydin/pen/RwzxrvG
+
+
+
+createContext, useState
+
+
+
+ <ThemeContext.Provider value={theme}>{children}</ThemeContext.Provider>

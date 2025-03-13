@@ -1,0 +1,11 @@
+https://codepen.io/maydin/pen/KKjpMEE
+
+useState
+
+<form onSubmit={onFormSubmit}>
+      <label htmlFor="todo">Yapılacak İşi girin: </label>
+      <input type="text" id="todo" value={entry} onChange={onEntryChange} />
+      <input type="submit" value="Add todo" />
+    </form>
+
+map

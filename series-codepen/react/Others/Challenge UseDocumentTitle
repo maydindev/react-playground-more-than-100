@@ -1,0 +1,9 @@
+https://codepen.io/maydin/pen/abgEqLO
+
+// Bu özel hook bir title parametresi kabul etmeli ve sayfanın başlığını güncellemelidir (document.title aracılığıyla). Ayrıca başlık her değiştiğinde sayfanın başlığını da güncellemelidir.
+// Özel hook'u yazdıktan sonra, başlığı alışveriş listenizdeki X ürüne ayarlamak için App bileşeninde kullanın; burada X ürün sayısıdır.
+// Codepen'de gözükmeyebilir. localhost'ta deneyin, ürün ekleyin/kaldırın ve başlığın güncellendiğinden emin olun.
+
+useState, useEffect 
+onClick
+document.title

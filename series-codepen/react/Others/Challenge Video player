@@ -1,0 +1,17 @@
+https://codepen.io/maydin/pen/ZEdboyz
+
+useState, useEffect, useRef
+
+videoRef.current.play();
+videoRef.current.pause();
+
+video
+onClick
+
+<video
+        ref={videoRef}
+        width="300"
+        controls
+        src="https://player.vimeo.com/external/502448622.sd.mp4?s=b986796fe032a2ef7890880779489597a837b93b&profile_id=164&oauth2_token_id=57447761"
+      />
+

@@ -1,0 +1,20 @@
+https://codepen.io/maydin/pen/LYKEmzQ
+
+ekrandaki kartın üzerine tıklandığında dönüyor.
+
+
+import React, { useState, useEffect } from "https://esm.sh/react@18.2.0";
+import ReactDOM from "https://esm.sh/react-dom@18.2.0";
+
+
+  //https://thesimpsonsquoteapi.glitch.me/quotes
+
+  async
+  try
+  catch
+  finally
+  await fetch(
+        "https://thesimpsonsquoteapi.glitch.me/quotes"
+      );
+
+response.json()

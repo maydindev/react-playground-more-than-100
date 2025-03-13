@@ -1,0 +1,9 @@
+https://codepen.io/maydin/pen/JjQBYLj
+
+"Increment count" butonuna birden fazla kez tıkladığınızda, 5 değerinden
+        10 değerine anlık değişim nedeniyle aşağıdaki count değerinin
+        titrediğini görebilirsiniz.
+
+
+useState, useEffect
+onClick

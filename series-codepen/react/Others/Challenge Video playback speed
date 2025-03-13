@@ -1,0 +1,13 @@
+https://codepen.io/maydin/pen/ZEdQoKZ
+
+useRef
+
+videoRef.current.playbackRate
+
+figure
+ <video controls src={src} ref={videoRef} />
+ figcaption
+label
+select
+option
+onChange

@@ -1,0 +1,12 @@
+https://codepen.io/maydin/pen/ExBdOwL
+
+/* 
+**************React Bileşeninde İç İçe Geçmiş State'i Güncelleme**************
+React bileşeninde, kullanıcının adresi de dahil olmak üzere kullanıcı bilgilerini temsil eden derinlemesine iç içe geçmiş bir state nesneniz var. Göreviniz, butona tıklandığında address nesnesi içindeki city özelliğini güncellemek. Buradaki zorluk, orijinal state'i doğrudan mutasyona uğratmadan state'te yalnızca şehir değerinin güncellenmesini sağlamaktır. "Şehri Güncelle" butonuna tıklandıktan sonra kullanıcı arayüzü yeni city değerini yansıtmalıdır.
+
+Yapılacaklar: "Şehri Güncelle" butonuna tıklandığında, şehir değerini "Mombasa" olarak güncelleyin ve değişikliğin kullanıcı arayüzüne hemen yansıtılmasını sağlayın.
+
+*/
+
+useState
+onClick

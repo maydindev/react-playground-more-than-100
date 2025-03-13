@@ -1,0 +1,11 @@
+https://codepen.io/maydin/pen/yLdpQey
+
+Verileri herhangi bir bileşene iletmek ve almak için React Context API'i kullanacağız.
+
+useState, createContext, useContext
+createContext
+<AppContext.Provider value={valueToShare}>{children}</AppContext.Provider>
+
+strong
+label
+input

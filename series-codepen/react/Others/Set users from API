@@ -1,0 +1,19 @@
+https://codepen.io/maydin/pen/oNrNJwy
+
+
+
+
+useState, useEffect
+
+
+ const url = "https://run.mocky.io/v3/4190c885-f795-4e36-9016-09a399f59ade";
+
+
+async
+await fetch
+response.json()
+
+
+
+
+

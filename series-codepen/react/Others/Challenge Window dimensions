@@ -1,0 +1,34 @@
+https://codepen.io/maydin/pen/vYwoyGg
+
+
+useState, useEffect 
+
+   width: window.innerWidth,
+    height: window.innerHeight
+
+
+   window.addEventListener("resize", checkWindowDimensions);
+    return () => {
+      window.removeEventListener("resize", checkWindowDimensions);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

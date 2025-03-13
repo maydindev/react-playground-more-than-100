@@ -1,0 +1,11 @@
+https://codepen.io/maydin/pen/BagJPVX
+
+farenin bulunduğu en boy pixel değerlerini gösteriyor. 
+
+useState, useEffect
+
+x: event.clientX,
+y: event.clientY
+
+window.addEventListener("mousemove", handleMouseMove);
+window.removeEventListener("mousemove", handleMouseMove);

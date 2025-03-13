@@ -1,0 +1,28 @@
+https://codepen.io/maydin/pen/ZEdzdqW
+
+
+useState, useEffect, useMemo
+
+import format from "https://esm.sh/date-fns/format";
+
+
+customhook
+
+useMemo
+
+Math.min(100_000, Number(event.target.value))
+
+allPrimes.length
+
+allPrimes.join(", ")
+
+const max = Math.ceil(Math.sqrt(n));
+
+
+new Date()
+
+window.setInterval
+window.clearInterval
+
+
+

@@ -1,0 +1,9 @@
+https://codepen.io/maydin/pen/qBzyOYE
+
+ "Increment count" butonuna birden fazla kez tıkladığınızda, 5 değerinden
+        10 değerine anlık değişim nedeniyle count değerinin titremesini
+        görmezsiniz.
+
+
+useState, useLayoutEffect
+onClick

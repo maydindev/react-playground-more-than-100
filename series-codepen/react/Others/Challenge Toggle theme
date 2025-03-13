@@ -1,0 +1,17 @@
+https://codepen.io/maydin/pen/poXpavO
+
+// Temayı değiştir/Toggle theme butonuna tıklandığında temanın koyudan açığa ya da tam tersine geçmesini sağlayacak şekilde kodu tamamlayın.
+
+createContext, useContext, useState
+
+<ThemeContext.Provider value={value}>
+      {props.children}
+    </ThemeContext.Provider>
+
+onClick
+
+<ThemeProvider>
+    <App />
+  </ThemeProvider>
+
+
