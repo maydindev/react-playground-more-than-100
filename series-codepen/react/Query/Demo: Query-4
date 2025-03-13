@@ -1,0 +1,9 @@
+https://codepen.io/maydin/pen/NWQMoPy
+
+console.log(`effect: ${count}`);
+    return () => {
+      console.log(`cleanup: ${count}`);
+      };
+
+useState, useEffect
+onClick

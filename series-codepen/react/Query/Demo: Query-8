@@ -1,0 +1,27 @@
+https://codepen.io/maydin/pen/ExqLraq
+
+pokemon kartları
+
+useState, useEffect, useContext
+figure
+img
+figcaption
+onClick
+
+React.createContext([{}, () => {}]);
+<queryContext.Provider value={tuple}>{children}</queryContext.Provider>
+
+
+mokeapi-pokeapi
+async
+await
+try
+catch
+throw
+fetch
+res.json();
+res.ok
+
+<QueryProvider>
+    <App />
+  </QueryProvider>

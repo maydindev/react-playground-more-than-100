@@ -1,0 +1,28 @@
+https://codepen.io/maydin/pen/jENqgYm
+
+belgede kaydırmayı geçici olarak devre dışı bırakır. Özellikle  modal, açılır menü veya kullanıcının dikkatini gerektiren herhangi bir bileşeni gösterirken kaydırmayı kısıtlamak istediğiniz senaryolarda faydalı olabilir. useLockBodyScroll kullanan bileşen DOM'dan kaldırıldığında, orijinal overflow stili geri uygulanmalı ve kaydırma davranışı önceki durumuna döndürülmelidir.
+
+useState, useLayoutEffect
+
+window.getComputedStyle(document.body).overflow;
+document.body.style.overflow = "hidden";
+document.body.style.overflow = overflowProperty
+
+modal
+
+dialog
+header
+onClick
+section
+
+["red", "blue", "green", "pink", "purple", "yellow"].map((color) => (
+          <section
+            key={color}
+            style={{
+              backgroundColor: color,
+              height: "100px",
+              margin: "10px 0",
+              borderRadius: "8px"
+            }}
+          />
+        ))

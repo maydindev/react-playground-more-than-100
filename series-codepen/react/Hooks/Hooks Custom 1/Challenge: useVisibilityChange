@@ -1,0 +1,8 @@
+https://codepen.io/maydin/pen/VYZaoBo
+
+belgenin görünürlük durumunu (document.visibilityState) takip etmek için kullanışlıdır. Belgenin görünür olup olmadığını belirten boolean değer döndürür. Ayrıca belgenin görünürlük durumu değiştiğinde değeri güncellemek için visibilitychange olayına  olay dinleyici ekler.
+
+useState, useEffect
+document.visibilityState === "visible"
+window.addEventListener("visibilitychange", visibility);
+window.removeEventListener("visibilitychange", visibility);

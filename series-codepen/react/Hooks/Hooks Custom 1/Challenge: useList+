@@ -1,0 +1,11 @@
+https://codepen.io/maydin/pen/RNbRNbv
+
+kullanıcının element listesini daha rahat yönetmesini sağlar. Bu hook ilk eleman olarak listeyi ve ikinci eleman olarak listeyi yönetmek için metodlar içeren nesne döndürür.
+
+useState, useCallback
+length
+filter
+slice
+onClick
+onChange
+

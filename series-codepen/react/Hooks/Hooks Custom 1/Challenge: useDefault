@@ -1,0 +1,10 @@
+https://codepen.io/maydin/pen/Jjgqrgb
+
+useState ile benzer şekilde çalışır ancak bir farkla. Eğer hook'un state'i undefined veya null olursa, useDefault bu state'i sağlanan varsayılan değere döndürür.
+
+useState
+onClick
+JSON.stringify(user)
+pre
+code
+section

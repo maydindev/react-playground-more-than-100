@@ -1,0 +1,29 @@
+https://codepen.io/maydin/pen/VYZyvZm
+
+kullanıcının hareketsiz veya pasif olup olmadığını bilmenin basit bir yolunu sağlar.
+
+CUSTOMHOOK
+useIdle
+
+useState, useEffect, useRef 
+
+#Date.now()
+
+setTimeout
+
+/*const events = [
+      "mousemove",
+      "mousedown",
+      "resize",
+      "keydown",
+      "touchstart",
+      "wheel",
+      "visibilitychange"
+    ];*/
+
+forEach
+
+window.addEventListener
+window.removeEventListener
+
+label

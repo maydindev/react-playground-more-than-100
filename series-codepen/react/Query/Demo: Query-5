@@ -1,0 +1,19 @@
+https://codepen.io/maydin/pen/QWerYwr
+
+console.log(`${id} için cleanup fonksiyonu çağrıldı`);
+
+
+useState, useEffect
+figure
+img
+figcaption
+onClick
+try
+catch
+throw
+
+res.ok
+res.json();
+fetch
+mokeapi-pokeapi
+

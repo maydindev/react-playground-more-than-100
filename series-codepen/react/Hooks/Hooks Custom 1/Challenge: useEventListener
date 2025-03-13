@@ -1,0 +1,17 @@
+https://codepen.io/maydin/pen/NPKbxdQ
+
+
+modal
+
+useState, useRef, useCallback, useEffect
+
+target.addEventListener(eventName, handler, options);
+target.removeEventListener(eventName, handler, options);
+
+!element.contains(e.target)
+
+useEventListener(document, "mousedown", handleClick);
+
+onClick
+
+dialog

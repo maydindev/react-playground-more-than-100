@@ -1,0 +1,31 @@
+https://codepen.io/maydin/pen/WbedwPJ
+
+useSessionStorage, React uygulamasında veriyi session storage'da depolamak ve almak için kullanışlı bir arayüz sunar. API'si useState ile benzerdir ancak değeri component state yerine session storage'da saklar.
+
+#CUSTOMHOOK
+#useSessionStorage
+
+
+useState
+useEffect
+useRef
+useSyncExternalStore
+
+window.dispatchEvent
+new StorageEvent
+JSON.stringify
+JSON.parse
+window.sessionStorage.setItem
+window.sessionStorage.removeItem
+window.sessionStorage.getItem
+
+throw Error
+typeof
+
+window.addEventListener
+window.removeEventListener
+
+window.location.reload();
+window.sessionStorage.clear();
+
+onClick

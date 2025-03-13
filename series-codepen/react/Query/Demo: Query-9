@@ -1,0 +1,12 @@
+https://codepen.io/maydin/pen/RwXyvPK
+
+bunu whatsapptan bak bir defa daha sonucuna
+
+async
+try
+catch
+fetch
+fetch('https://api.github.com/orgs/TanStack/repos')
+await
+throw
+
