@@ -1,0 +1,24 @@
+https://codepen.io/maydin/pen/ZEdYoQb
+
+
+
+useState, useEffect
+
+
+async
+try
+catch
+finally
+await fetch(
+          `https://api.exchangerate-api.com/v4/latest/${currency}`
+        );
+
+ response.json()
+
+select
+option
+
+onChange
+
+currency.toUpperCase()
+

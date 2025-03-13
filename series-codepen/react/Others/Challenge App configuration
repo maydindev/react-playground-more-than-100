@@ -1,0 +1,34 @@
+https://codepen.io/maydin/pen/dyBJdev
+
+// Bu projede, para birimini ve tüm uygulamada kullanılan temayı saklayacak bir AppContext tanımlayacaksınız.
+// Tema varsayılan olarak koyu renktedir ve Temayı değiştir butonuna tıklanarak değiştirilebilir. Geçerli temayı gösteren bir mesaj gösterilir: X teması kullanılıyor, burada X geçerli temayı göstermektedir. Para birimi, açılır menüden yeni bir değer seçilerek değiştirilebilir. Para biriminin değiştirilmesi StoreFront'a yansıtılmalıdır (Y'nin seçilen para birimi olduğu Y'de yapılan alışveriş).
+
+
+createContext, useContext, useState, useEffect
+
+<AppContext.Provider value={valueToShare}>{children}</AppContext.Provider>
+
+
+svg
+circle
+
+<select onChange={handleChangeCurrency}>
+        <option value="USD">USD</option>
+        <option value="EUR">EUR</option>
+      </select>
+
+onClick
+
+img
+
+fetch
+then
+catch
+finally
+mokeapi-mocky
+
+ <AppProvider>
+    <App />
+  </AppProvider>
+
+

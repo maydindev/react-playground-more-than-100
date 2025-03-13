@@ -1,0 +1,31 @@
+https://codepen.io/maydin/pen/VwJYxWx
+
+
+
+
+
+import React, { useState, useEffect } from "https://esm.sh/react@18.2.0";
+import ReactDOM from "https://esm.sh/react-dom@18.2.0";
+
+
+    e.preventDefault();
+
+setTimeout
+
+setQrUrl(
+        `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${
+          website + `.com`
+        }`
+
+form
+onSubmit
+onChange
+
+
+
+
+
+
+
+
+

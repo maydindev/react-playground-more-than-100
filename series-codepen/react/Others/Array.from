@@ -1,0 +1,17 @@
+https://codepen.io/maydin/pen/ExBYybW
+
+
+
+
+const copy = Array.from(numbers, value => value * 2);
+
+
+Array.from(document.scripts)
+.forEach(script => console.log(script.src));
+
+
+
+
+
+
+

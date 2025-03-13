@@ -1,0 +1,14 @@
+https://codepen.io/maydin/pen/NWZWoyv
+
+
+
+useState, useEffect
+
+fetch("https://run.mocky.io/v3/a9b018e8-92da-4941-94d2-9ef261b49017")
+
+then
+response.json()
+
+
+
+

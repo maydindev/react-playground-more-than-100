@@ -1,0 +1,35 @@
+https://codepen.io/maydin/pen/mdYNrLV
+
+
+useState, useEffect 
+
+Math.random()
+
+window.scrollY
+
+ window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+
+
+Array.from({ length: 50 });
+
+
+map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

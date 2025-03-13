@@ -1,0 +1,23 @@
+https://codepen.io/maydin/pen/ExBMYYG
+
+
+/* 
+**************useEffect'teki iç içe fetch çağrılarını async/await ile optimize etme**************
+UserPosts bileşeninde, useEffect hook içinde iki ardışık API çağrısı vardır. İkinci API çağrısı, ilkinin sonucuna bağlı. Şu an bu API çağrıları .then() syntax kullanılarak iç içe yerleştirilmiş durumda, bu da callback cehennemine ve okunabilirliğin azalmasına neden olabiliyor.
+
+Yapılacaklar: Şu anki uygulama, API isteklerini işlemek için iç içe .then() çağrıları kullanıyor ve bu da okunması ve bakımı zor olabiliyor. Daha iyi okunabilirlik ve bakım için bu kodu async/await kullanacak şekilde yeniden düzenleyebilir misiniz?
+*/
+
+
+useState, useEffect
+fetch
+
+mokeapi-typicode
+
+async
+//try
+//catch
+//await
+userResponse.json();
+key
+li

@@ -1,0 +1,22 @@
+https://codepen.io/maydin/pen/GRbRzmo
+
+
+
+useState, useEffect
+
+
+fetch("https://run.mocky.io/v3/b1069fd8-fb68-4810-926f-6d213037c180")
+
+then
+response.json()
+users.length
+
+
+
+
+
+
+
+
+
+

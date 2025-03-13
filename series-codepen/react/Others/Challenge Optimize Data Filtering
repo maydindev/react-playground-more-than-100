@@ -1,0 +1,22 @@
+https://codepen.io/maydin/pen/VwJgoNo
+
+/* 
+**************u useMemo ile veri filtrelemeyi optimize edin**************
+ DataList bileşeni, arama isteği input'una dayalı olarak büyük bir veri kümesini filtreler. Filtreleme işlemi, büyük bir madde listesini işlediği için hesaplama açısından pahalıdır. Şu anda filtreleme mantığı, girilen arama isteği değişmemiş olsa bile her render işleminde çalışmakta ve özellikle veri kümesi büyüdükçe performans sorunlarına yol açmaktadır.
+ 
+ 
+Yapılacaklar: DataList bileşeni, yapılan arama sorgusu değişmemiş olsa bile, her yeniden oluşturma işleminde pahalı bir filtreleme işlemi gerçekleştirir. Özellikle büyük bir veri kümesinde bu verimsiz bir işlemdir. Gereksiz filtrelemeyi önlemek için useMemo kullanarak bu kodu nasıl optimize ederdiniz?
+*/
+
+
+
+useState, useMemo
+filter
+toLowerCase
+includes
+input type="text"
+onChange
+li
+key
+
+Array.from

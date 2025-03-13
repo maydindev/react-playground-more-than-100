@@ -1,0 +1,6 @@
+https://codepen.io/maydin/pen/KKjZQmr
+
+// Konsola useWelcomeGreeting adlı bir fonksiyon tanımlayın: Bileşen ilk kez oluşturulduktan sonra yalnızca bir kez "Uygulamama hoş geldiniz".
+
+useState, useEffect
+

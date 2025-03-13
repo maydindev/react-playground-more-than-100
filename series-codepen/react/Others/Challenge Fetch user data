@@ -1,0 +1,14 @@
+https://codepen.io/maydin/pen/qBzEYpp
+
+useState, useEffect
+
+const url = "https://jsonplaceholder.typicode.com/users/1";
+
+async
+try
+catch
+await
+fetch
+response.json()
+
+strong

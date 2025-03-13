@@ -1,0 +1,16 @@
+https://codepen.io/maydin/pen/ZEdzvmx
+
+
+
+useState, useEffect
+
+import format from "https://esm.sh/date-fns/format";
+
+
+setInterval
+clearInterval
+
+   <p className="clock">{format(time, "hh:mm:ss a")}</p>;
+
+
+

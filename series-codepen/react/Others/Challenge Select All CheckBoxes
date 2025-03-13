@@ -1,0 +1,24 @@
+https://codepen.io/maydin/pen/rNEVWrK
+
+useState
+
+<form onSubmit={(e) => e.preventDefault()}>
+<label>
+          <input
+            type="checkbox"
+            checked={dogs}
+            onChange={(e) => setDogs(e.target.checked)}
+          />
+          Dogs
+        </label>
+
+
+
+
+
+
+
+
+
+
+

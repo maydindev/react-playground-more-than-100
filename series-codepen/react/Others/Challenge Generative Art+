@@ -1,0 +1,38 @@
+https://codepen.io/maydin/pen/BaeqvqK
+
+
+
+useState
+typeof
+
+
+ const x = radius * Math.cos(angle);
+  const y = radius * Math.sin(angle);
+
+length
+
+map
+Math.PI
+
+form
+
+fieldset
+
+legend
+label
+input type="range"
+
+select
+option
+
+onChange
+input type="radio"
+
+
+
+
+
+
+
+
+

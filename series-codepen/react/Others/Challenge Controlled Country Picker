@@ -1,0 +1,30 @@
+https://codepen.io/maydin/pen/yLWEPZp
+
+
+useState
+
+
+form
+
+fieldset
+legend
+label
+select
+onChange
+option
+
+
+Object.entries(COUNTRIES).map(([countryCode, countryName]) => (
+            <option key={countryCode} value={countryName}>
+              {countryName}
+            </option>
+          ))
+
+
+
+
+
+
+
+
+

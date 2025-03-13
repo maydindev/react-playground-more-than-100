@@ -1,0 +1,20 @@
+https://codepen.io/maydin/pen/MWMWZQJ
+
+
+
+useState, useEffect 
+
+
+ const url = "https://run.mocky.io/v3/f39696bf-2c78-49f8-bbf6-04c5ad6f2f6b";
+
+
+ mokeapi
+
+ async
+ await fetch
+ response.json()
+ 
+
+
+
+

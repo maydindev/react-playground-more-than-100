@@ -1,0 +1,7 @@
+https://codepen.io/maydin/pen/XWLbMrb
+
+useState
+filter
+Object.values(filter).every((value) => value === false)
+map
+animal.class

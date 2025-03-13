@@ -1,0 +1,18 @@
+https://codepen.io/maydin/pen/ZEdqmQK
+
+/* 
+
+Talimatlar: 
+Input değerini her değiştirdiğinizde factorialOf(n) hesaplanır ve "factorialOf(n) called!" konsola yazılır.
+Diğer tarafta, Re-render butonuna her tıkladığınızda inc state değeri güncelleniyor. 
+inc state değerinin güncellenmesi <CalculateFactorial /> yeniden oluşturmayı tetiklemektedir. 
+Ancak yan etki olarak, yeniden oluşturma sırasında faktöriyel yeniden hesaplanıyor - "factorialOf(n) called!" konsola yazılıyor
+Düzeltmek için optimize edilmiş bir yol olup olmadığına bakmalısınız.
+
+*/
+
+useState, useMemo 
+onChange
+Number
+onClick
+input type="number"

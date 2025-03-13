@@ -1,0 +1,25 @@
+// https://codepen.io/maydin/pen/qBzEYbj
+
+
+
+// const { useState, useEffect, useMemo, useCallback } = React;
+// import format from "https://esm.sh/date-fns/format";
+
+// console.info
+
+// onClick
+
+// React.memo
+
+/* function Clock({ time }) {
+    return <p className="clock">{format(time, "hh:mm:ss a")}</p>;
+  } */
+
+// typeof
+
+// console.warn
+
+// new Date()
+
+// window.setInterval
+// window.clearInterval

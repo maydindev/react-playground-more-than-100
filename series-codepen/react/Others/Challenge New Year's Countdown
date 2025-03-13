@@ -1,0 +1,26 @@
+https://codepen.io/maydin/pen/QWXwrMW
+
+
+
+import React, { useState, useEffect } from "https://esm.sh/react@18.2.0";
+import ReactDOM from "https://esm.sh/react-dom@18.2.0";
+
+
+new Date()
+new Date(date.getFullYear() + 1, 0, 1);
+new Date().setTime(endOfTheYear - date);
+
+setInterval
+clearInterval
+
+<p>
+        {Math.floor(countdown / 1000 / 60 / 60 / 24)} gün{", "}
+      </p>
+      <p>
+        {Math.floor((countdown / 1000 / 60 / 60) % 24)} saat{", "}
+      </p>
+      <p>
+        {Math.floor((countdown / 1000 / 60) % 60)} dakika{", "}
+      </p>
+      <p>{Math.floor((countdown / 1000) % 60)} saniye kaldı...</p>
+

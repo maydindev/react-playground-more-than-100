@@ -1,0 +1,38 @@
+https://codepen.io/maydin/pen/BagBXoX
+
+
+
+
+useState, useEffect, useMemo
+typeof
+push
+
+React.memo
+console.info
+map
+
+
+function handleMouseMove(event) {
+      setMousePosition({
+        x: event.clientX,
+        y: event.clientY
+      });
+
+
+window.addEventListener("mousemove", handleMouseMove);
+
+    return () => {
+      window.removeEventListener("mousemove", handleMouseMove);
+
+input type="range"
+
+onChange
+
+
+
+
+
+
+
+
+
