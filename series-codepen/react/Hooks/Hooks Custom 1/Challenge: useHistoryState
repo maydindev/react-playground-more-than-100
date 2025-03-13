@@ -1,0 +1,11 @@
+https://codepen.io/maydin/pen/VYZmvdb
+
+undo ve redo butonlarıyla state geçmişine dönebilme
+
+
+/*useState,*/ useCallback, useReducer, useMemo /*,useRef*/
+throw
+crypto.randomUUID()
+onClick
+onKeyDown
+e.target.value.trim()

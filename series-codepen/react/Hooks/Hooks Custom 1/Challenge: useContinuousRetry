@@ -1,0 +1,10 @@
+https://codepen.io/maydin/pen/KwPMwgN
+
+belirli bir callback fonksiyonunu tanımlanan interval sürekli olarak çağırmanıza olanak tanır. Callback fonksiyonu truthy bir değer döndüğünde, yani başarılı bir çözüm sağlandığında, çağrılar durur. Bu hook geçici olarak başarısız olabilecek ve otomatik olarak yeniden denenmesi gereken asenkron işlemler veya API çağrıları ile çalışırken özellikle kullanışlıdır.
+
+useState, useEffect, useRef, useCallback
+Infinity
+setInterval
+clearInterval
+onClick
+JSON.stringify({ hasResolved, count }, null, 2)

@@ -1,0 +1,21 @@
+https://codepen.io/maydin/pen/dPbRzxN
+
+
+modal
+
+useState, 
+useEffect, 
+useRef, 
+useLayoutEffect
+
+!ref.current.contains(e.target)
+
+setTimeout
+clearTimeout
+
+document.addEventListener("click", handleClick);
+document.removeEventListener("click", handleClick);
+
+dialog
+onClick
+

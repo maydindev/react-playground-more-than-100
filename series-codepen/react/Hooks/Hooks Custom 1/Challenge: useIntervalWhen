@@ -1,0 +1,11 @@
+https://codepen.io/maydin/pen/VYZpaGR
+
+
+useState, useEffect, useRef, useCallback
+setInterval
+clearInterval
+
+count.toLocaleString("tr-TR", {
+          maximumFractionDigits: 2,
+          minimumFractionDigits: 2
+        })

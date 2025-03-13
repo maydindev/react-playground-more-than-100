@@ -1,0 +1,8 @@
+https://codepen.io/maydin/pen/YPKEepy
+
+
+useState, 
+useEffect
+event.relatedTarget
+document.addEventListener("mouseout", handleMouseOut);
+document.removeEventListener("mouseout", handleMouseOut)

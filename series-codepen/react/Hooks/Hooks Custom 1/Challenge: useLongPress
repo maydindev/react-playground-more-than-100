@@ -1,0 +1,29 @@
+https://codepen.io/maydin/pen/NPKXbxp
+
+Sayfadaki butona tıklayıp bir süre bırakmadıktan sonra modal açılıyor.
+
+#CUSTOMHOOK
+#useLongPress
+
+#MODAL
+
+#useState 
+#useEffect 
+#useMemo 
+#useRef
+#window.TouchEvent
+#instanceof TouchEvent
+#instanceof MouseEvent
+#event.nativeEvent
+#typeof
+
+#onMouseDown
+#onMouseUp
+#onMouseLeave
+#onTouchStart
+#onTouchEnd
+
+#dialog
+
+
+

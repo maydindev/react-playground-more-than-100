@@ -1,0 +1,23 @@
+https://codepen.io/maydin/pen/OPLpXOp
+
+Butonlara bastıkça scroll yapıyor
+
+useState, useEffect, useRef
+window.scrollX, y: window.scrollY
+
+window.addEventListener("scroll", handleScroll);
+window.removeEventListener("scroll", handleScroll);
+
+window.scrollTo(x)
+onClick
+
+typeof
+behavior: "smooth"
+
+new Array(50).fill().map((_, index) => {
+        return <p key={index}>{index}</p>;
+      })
+
+aside
+position: "fixed"
+

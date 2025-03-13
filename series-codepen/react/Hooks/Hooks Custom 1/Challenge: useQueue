@@ -1,0 +1,12 @@
+https://codepen.io/maydin/pen/zxOvvPj
+
+kuyruk tipi bir veri yapısını yönetmenin kolay bir yolunu sunar. Eğer aşina değilseniz, kuyruk (queue) FIFO (ilk giren, ilk çıkar) prensibini takip eder. Kuyruğa eklenen ilk elemanın, kuyruğa eklenen ilk eleman olarak çıkarılması gerektiği anlamına gelir.
+
+useState, useCallback
+slice
+
+figure
+article
+figcaption
+header
+onClick

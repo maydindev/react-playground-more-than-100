@@ -1,0 +1,16 @@
+https://codepen.io/maydin/pen/xbKPYoZ
+
+klavyeden ok tuşlarına basıldığında ilgili kutunun arka planı değişiyor
+
+useState, 
+useEffect
+??
+addEventListener
+removeEventListener
+preventDefault
+setTimeout
+
+  useKeyPress("ArrowRight", handleKeyPress);
+  useKeyPress("ArrowLeft", handleKeyPress);
+  useKeyPress("ArrowUp", handleKeyPress);
+  useKeyPress("ArrowDown", handleKeyPress);
